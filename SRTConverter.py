@@ -8,7 +8,6 @@ newfile = userfile + "-converted.txt"
 
 userfile = open(userfile, "r")
 new = open(newfile, "w")
-count = 0
 
 while True:
     i = userfile.read(1)
@@ -30,5 +29,6 @@ while True:
         break
     else:
         new.write(i)
+        
 userfile.close()
 print("Conversion Successful.")
