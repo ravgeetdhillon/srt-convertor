@@ -46,5 +46,5 @@ beaver you can see your ID password and
 <h3>What I Learned</h3>
 <ul>
   <li>Python File Handling</li>
-  <li>.BAT File Commands</li>
+  <li>Batch Commands</li>
 </ul>
