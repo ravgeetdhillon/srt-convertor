@@ -21,6 +21,28 @@ So run the following code in CMD: <br />
   convertSrt titles
 </pre>
 
+<h3>Before</h3>
+<pre>
+1
+00:00:00,060 --> 00:00:04,850
+what are you doing what are you<font color="#E5E5E5"> doing</font>
+
+2
+00:00:04,850 --> 00:00:12,330
+<font color="#E5E5E5">sending</font><font color="#CCCCCC"> you a package on this</font><font color="#E5E5E5"> stream</font>
+
+3
+00:00:12,330 --> 00:00:15,389
+<font color="#CCCCCC">beaver</font><font color="#E5E5E5"> you can see your ID password and</font>
+</pre>
+
+<h3>After</h3>
+<pre>
+what are you doing what are you doing
+sending you a package on this stream
+beaver you can see your ID password and
+</pre>
+
 <h3>What I Learned</h3>
 <ul>
   <li>Python File Handling</li>
