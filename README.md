@@ -5,7 +5,7 @@ A tool to convert Subtitles into Text format.
 1. Clone this repo in on your local machine at Desktop.<br />
 2. Add your .srt file in this folder.<br />
 3. Run Command Prompt(CMD) if you are on Windows.<br />
-4. Run the following code in the CMD: <br />
+4. Run the following code in the CMD: <br /><br />
 <pre>
   cd C:\Users\%username%\Desktop
   convertSrt %fileBaseNameNoExtension%
@@ -15,7 +15,7 @@ A tool to convert Subtitles into Text format.
 Suppose you have a file - "titles.srt".<br />
 Copy this file to your srt-convertor folder.<br />
 Suppose your username is "john".<br />
-So run the following code in CMD: <br />
+So run the following code in CMD: <br /><br />
 <pre>
   cd C:\Users\john\Desktop
   convertSrt titles
