@@ -1,5 +1,5 @@
 # srt-convertor
-A tool to convert Subtitles into Text format.
+A tool to convert Video Subtitles into Text format.
 
 <h3>How to Use</h3>
 1. Clone this repo in on your local machine at Desktop.<br />
